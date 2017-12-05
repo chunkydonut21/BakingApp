@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="nothing_found">Nothing Found</string>
+    <string name="recipe_parcel">PARCEL_RECIPE</string>
+    <string name="appwidget_text">RECIPE WIDGET</string>
+    <string name="add_widget">Recipe Widget</string>
+</resources>
